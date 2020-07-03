@@ -1,5 +1,6 @@
 # Project101
-![Everything Wrong with Sex Education in India](/Users/anushasubramanian/Desktop/Project101/images)
+![Everything Wrong with Sex Education in India](/Users/anushasubramanian/Desktop/Project101/images/Cover.png)
+
 This is the repository for my Digitial Humanities 101 Project
 
 ### Group Project Abstract
