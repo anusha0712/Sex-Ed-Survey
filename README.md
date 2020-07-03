@@ -1,7 +1,7 @@
 # Project101
-<img src="images/Cover.png" alt="Image" height="300" width="500">
+<img src="images/Cover.png" alt="Image" height="300" width="500" figcaption = "Everything wrong with Sex Education Curriculum">
 
-This is the repository for my Digitial Humanities 101 Project
+This is the repository for my Digitial Humanities 101 Project.
 
 ### Group Project Abstract
 My group worked on bias and inclusivity in the Digital Humanities. This was interesting to me because....  
