@@ -1,5 +1,5 @@
 # Project101
-<img src="images/Cover.png" alt="Image" height="150" width="150">
+<img src="images/Cover.png" alt="Image" height="300" width="500">
 
 This is the repository for my Digitial Humanities 101 Project
 
