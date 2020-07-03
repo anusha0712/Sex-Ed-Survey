@@ -1,5 +1,5 @@
 # Project101
-![Everything Wrong with Sex Education in India]<img src="images/Cover.png" alt="Image" height="40" width="40">
+<img src="images/Cover.png" alt="Image" height="150" width="150">
 
 This is the repository for my Digitial Humanities 101 Project
 
