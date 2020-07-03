@@ -1,5 +1,5 @@
 # Project101
-![knight](file path)
+![Everything Wrong with Sex Education in India](/Users/anushasubramanian/Desktop/Project101/images)
 This is the repository for my Digitial Humanities 101 Project
 
 ### Group Project Abstract
