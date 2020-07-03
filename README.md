@@ -1,5 +1,5 @@
 # Project101
-![Everything Wrong with Sex Education in India](/Users/anushasubramanian/Desktop/Project101/images/Cover.png)
+![Everything Wrong with Sex Education in India](https://github.com/anusha0712/Project101/blob/master/Cover.png?raw=true)
 
 This is the repository for my Digitial Humanities 101 Project
 
