@@ -1,6 +1,6 @@
 # Project101
 <img src="images/Cover.png" alt="Image" height="300" width="500" figcaption = "Everything wrong with Sex Education Curriculum">
-#### Everything that's wrong with Sexual Education Curriculum
+### Everything that's wrong with Sexual Education Curriculum
 
 This is the repository for my Digitial Humanities 101 Project.
 
