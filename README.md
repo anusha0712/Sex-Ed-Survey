@@ -1,4 +1,4 @@
-# Project101
+# Digital Humanities Practicum Project, UC Berkeley
 <img src="images/Cover.png" alt="Image" height="300" width="500" figcaption = "Everything wrong with Sex Education Curriculum">
 
 #### Caption: Everything that's wrong with Sexual Education Curriculum
